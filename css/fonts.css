@@ -1,0 +1,24 @@
+@font-face {
+    font-family: Acme;
+    src: url('../fonts/Acme/Acme-Regular.ttf');
+}
+
+@font-face {
+    font-family: Alegreya;
+    src: url('../fonts/Alegreya/Alegreya-Italic-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: Courgette;
+    src: url('../fonts/Courgette/Courgette-Regular.ttf');
+}
+
+@font-face {
+    font-family: Karla;
+    src: url('../fonts/Karla/Karla-VariableFont_wght.ttf');
+}
+
+@font-face {
+    font-family: Recursive;
+    src: url('../fonts/Recursive/Recursive-VariableFont_CASL\,CRSV\,MONO\,slnt\,wght.ttf');
+}
